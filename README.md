@@ -1,18 +1,12 @@
-## Hi there 👋
-
 <div align="center">
 
-# 🌙 Hey there! I'm Aditya 👋
+![Stars](https://img.shields.io/github/stars/AdiK-c?style=social)
 
-### 💻 Java + Spring Boot Developer  
-### ⚙️ C++ Systems Programmer | Linux Enthusiast  
+# 🌙 Aditya Kotewar
 
-📍 Pune, India  
-📧 kotewaraditya22@gmail.com  
+**`B.E. Computer Engineering · Dr. D. Y. Patil Institute of Technology · Pune, India`**
 
----
-
-🚀 *"Code it. Ship it. Learn from it. Repeat."*
+![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1D9E75&center=true&vCenter=true&width=500&lines=Java+%2B+Spring+Boot+Developer;C%2B%2B+Systems+Programmer;Linux+%26+OS+Enthusiast;Building+Open+Source+Tools)
 
 </div>
 
@@ -20,83 +14,43 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 B.E. Computer Engineering (3rd Year)  
-- 💡 Strong in **Data Structures & Algorithms**  
-- ⚡ Passionate about **System Programming & Backend Development**  
-- 🛠️ Love building real-world projects & open-source tools  
-- 📈 CGPA: **8.66 / 10**  
-- 💼 Internship: **Software Developer @ Gtasterix IT Pvt. Ltd**
+> Aspiring Software Developer with a strong grip on Data Structures, Algorithms, and Full-Stack Development.
+> Passionate about low-level C systems, Java backends, and open source.
+> Currently in 2nd year at DYPIT — always building, always learning.
 
----
-
-## 🌱 Currently Learning
-
-- 🧠 **Machine Learning & NLP**
-- ⚙️ **System Design & Backend Scaling**
-- 🔗 **Blockchain Basics**
-- 🚀 **Advanced Spring Boot**
+| | |
+|---|---|
+| 🎓 CGPA | **8.66 / 10** |
+| 💼 Internship | Gtasterix It Pvt. Ltd — Software Developer |
+| 📍 Location | Pune, Maharashtra, India |
+| 📬 Email | kotewaraditya22@gmail.com |
+| 🔗 GitHub | [AdiK-c](https://github.com/AdiK-c) |
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Languages
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge)
-![C](https://img.shields.io/badge/C-grey?style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
-![HTML](https://img.shields.io/badge/HTML5-red?style=for-the-badge)
-
----
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-black?style=for-the-badge)
-![Next.js](https://img.shields.io/badge/Next.js-grey?style=for-the-badge)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge)
-
----
-
-### ⚙️ Backend
-![Spring Boot](https://img.shields.io/badge/SpringBoot-green?style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge)
-
----
-
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge)
-
----
-
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge)
-![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge)
+```
+Languages   →  Java · C++ · C · TypeScript · SQL · HTML · JavaScript
+Frameworks  →  Spring Boot · Spring · Java Swing
+Databases   →  MongoDB · MySQL
+Tools       →  Git · Linux · Postman
+AI APIs     →  Claude · Gemini API
+Concepts    →  OOP · DSA · Networking · OS · DBMS · Agile
+```
 
 ---
 
 ## 🚀 Projects
 
-- 📦 **Generalised Data Structure Library**  
-  → C++ · Templates  
-
-- 💬 **Chat Messenger With Log Facility**  
-  → Java · Sockets  
-
-- 🔍 **Process Memory Inspector**  
-  → C · Linux  
-
-- 📁 **File Packer + Encryption**  
-  → Java  
-
-- 🗂️ **CVFS (Virtual File System)**  
-  → C · OS  
-
-- 📊 **Study Tracker App**  
-  → Java · OOP  
+| Icon | Project | Stack |
+|---|---|---|
+| 📦 | [Generalised Data Structure Library](https://github.com/AdiK-c/Generalised_Data_Structures_Library) | C++ · OOP · Templates |
+| 💬 | [Chat Messenger With Log Facility](https://github.com/AdiK-c/Chat_Messenger_With_Log_Facility) | Java · Sockets · Swing |
+| 🔍 | [Marvellous Process Memory Inspector](https://github.com/AdiK-c/Marvellous_Process_Memory_Inspector) | C · Linux · /proc |
+| 📁 | [File Packer + Encryption](https://github.com/AdiK-c/File-Packer-and-Unpacker-with-Encryption) | Java · Encryption |
+| 🗂️ | [CVFS — Virtual File System](https://github.com/AdiK-c/CVFS) | C · OS Internals |
+| 📊 | [Marvellous Study Tracker App](https://github.com/AdiK-c/Marvellous_Study_Tracker_App) | Java · OOP · CSV |
 
 ---
 
@@ -105,25 +59,12 @@
 <div align="center">
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=AdiK-c&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Streak](https://streak-stats.demolab.com?user=AdiK-c&theme=tokyonight&hide_border=true)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdiK-c&layout=compact&theme=tokyonight&hide_border=true)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdiK-c&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
-
-## 🤝 Let's Connect
 
 <div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge)](https://github.com/AdiK-c)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge)]()
-[![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge)](mailto:kotewaraditya22@gmail.com)
-
+⭐ Star a repo · Open to collaborate · Open to opportunities
 </div>
-
----
-
-⭐ Open to collaborations | Internships | Opportunities
