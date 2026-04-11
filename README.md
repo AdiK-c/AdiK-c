@@ -101,11 +101,10 @@ Virtual file system in C simulating Linux operations: create, open, read, write,
 ## 📬 Contact
 
 - 📧 kotewaraditya22@gmail.com
-- 📧 adityakotewar2005@gmail.com
 - 📱 +91-7821973780
 - 📍 Nehru Nagar Pimpri, Pune, Maharashtra – 411018
 - 🔗 [github.com/AdiK-c](https://github.com/AdiK-c)
 
 ---
 
-<p align="center">Made with ❤️ by Aditya Kotewar</p>
+
