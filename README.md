@@ -119,7 +119,6 @@ Virtual file system in C simulating Linux operations with inodes, file tables an
 | | |
 |---|---|
 | 📧 Primary | kotewaraditya22@gmail.com |
-| 📧 Alternate | adityakotewar2005@gmail.com |
 | 📱 Phone | +91-7821973780 |
 | 📍 Location | Pimpri, Pune, Maharashtra – 411018 |
 | 🐙 GitHub | [github.com/AdiK-c](https://github.com/AdiK-c) |
