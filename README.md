@@ -126,4 +126,3 @@ Virtual file system in C simulating Linux operations with inodes, file tables an
 
 ---
 
-<p align="center">Made with ❤️ by Aditya Kotewar</p>
