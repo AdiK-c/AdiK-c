@@ -16,14 +16,12 @@
 
 ```yaml
 Name          : Aditya Kotewar
-Role          : B.E. Computer Engineering Student (3rd Year)
-Specialization: Backend Development + System Programming
+Education     : B.E. Computer Engineering (3rd Year)
+University    : Savitribai Phule Pune University
+Specialization: Backend Development | System Programming Internals
 Location      : Pune, India 🇮🇳
 CGPA          : 8.66 / 10
-Current Focus : Scalable Backend & System-Level Projects
-Fun Fact      : I enjoy debugging low-level systems 😄
-Email         : kotewaraditya22@gmail.com
-Phone         : +91-7821973780
+Current Focus : Building Scalable Full Stack Applications
 ```
 
 ---
